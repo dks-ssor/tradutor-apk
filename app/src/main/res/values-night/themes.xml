@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Poliglota" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#CFBCFF</item>
+        <item name="colorOnPrimary">#381E72</item>
+        <item name="colorPrimaryContainer">#4F378B</item>
+        <item name="colorOnPrimaryContainer">#EADDFF</item>
+        <item name="colorSecondary">#A8C7FF</item>
+        <item name="colorSurface">#141218</item>
+        <item name="colorOnSurface">#E6E1E5</item>
+        <item name="colorSurfaceVariant">#2B2930</item>
+        <item name="android:colorBackground">#141218</item>
+        <item name="android:statusBarColor">#141218</item>
+        <item name="android:navigationBarColor">#141218</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
